@@ -52,3 +52,18 @@ This course was mainly about GraphQL and it was a really good introduction. I ca
   * associating with components.
 * auto data caching with Apollo
 * Authentication with GraphQL and Apollo
+
+
+### [Full Stack Redux Tutorial: Live voting app with React / Redux / Router and Socket.io]
+(http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+> **Tero Parviainen** [profile](http://teropa.info/)<br>
+This might have been the best tutorial I have ever done. Redux on serverside as well as clientside. Excellent explanations. Test first examples. Smart and Dumb components. Socket.io live voting App.
+
+* Redux: excellent explanation of design
+* Immutable.js
+  * Excellent information on Immutable.js!!!
+* Test-first pure functions
+  * dumb components, actions and reducers
+* React client side with webpack
+* Server side
+* Socket.io
