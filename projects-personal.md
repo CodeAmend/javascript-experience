@@ -1,5 +1,21 @@
 # Personal Projects
 
+## [Personal Portfolio Website]
+[Original Static Site with hand sketches](https://github.com/CodeAmend/portfolio-static-site)
+[Current Frontend with React and Tests](https://github.com/CodeAmend/michaelbruceallen.com)
+[Backend API with tests 1](https://github.com/CodeAmend/portfolio-api)
+[Backend API with tests 2](https://github.com/CodeAmend/API.Portfolio)
+> This is a personal portfolio that will be a highly interactive website. It will connect ALL of my experience, education, projects, and skills with highly dynamic React components. If you were to click on a skill a window would pop up with a nice explanation from me and have links to various project, education and experiences. When you click these links, they will take you to that React component and have links as well. It is all connected by robust API endpoints.
+
+* Created with React / Redux / Router (Maybe GraphQL)
+* Proper Testing with Mocha, Chai and Enzyme
+* Manually made npm scripts and Webpack
+* Hand sketched layout on graph paper
+* Use of Semantic-UI CSS framework
+* Use of a MERN stack.
+* MongoDB Express React and Nodejs.
+* CMS will be created to add new Skills, Education, Projects and Experiences
+
 
 
 
