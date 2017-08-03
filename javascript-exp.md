@@ -91,7 +91,7 @@ This has to be my favorite course I have taken. The reason is because it helped 
 
 
 
-### [Javascript: The Weird Parts]
+### [Understanding Nodejs]
 (https://www.udemy.com/understand-nodejs/learn/v4/overview)
 > **Anthony Alicea** [profile](https://www.udemy.com/user/anthonypalicea)  <br>
 
