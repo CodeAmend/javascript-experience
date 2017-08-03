@@ -1,4 +1,4 @@
-# React / Redux / Router Experience
+# React / Angular / Redux / GraphQL / Router Experience
 
 ### [Modern React + Redux]
 (https://www.udemy.com/react-redux/learn/v4/overview)
@@ -67,3 +67,24 @@ This might have been the best tutorial I have ever done. Redux on serverside as 
 * React client side with webpack
 * Server side
 * Socket.io
+
+
+### [Learn and Understand AngularJS]
+(https://www.udemy.com/learn-angularjs/learn/v4/overview)
+> **Toni Alicea** [profile](https://www.udemy.com/user/anthonypalicea/)<br>
+This was a wonderful course on Angular 2. It showed just how simple Angular is compared to React. Tony really dug deep and showed an understanding of how it is actually working. It was not just a tutorial to make a project.
+
+
+* Learn how AngularJS works:
+ * directives
+ * dependency injection
+ * two way data binding
+ * the digest loop
+ * watchers
+ * attributes
+ * loosely typed arrays
+ * the hash
+ * the event loop.
+* Code custom services.
+* Design custom directives, understanding concepts like compile, link, and scope.
+  
