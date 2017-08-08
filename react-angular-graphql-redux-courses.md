@@ -1,4 +1,4 @@
-# React / Angular / Redux / GraphQL / Router Experience
+# React / Angular / Redux / GraphQL / Router Courses
 
 ### [Modern React + Redux]
 (https://www.udemy.com/react-redux/learn/v4/overview)
@@ -87,4 +87,3 @@ This was a wonderful course on Angular 2. It showed just how simple Angular is c
  * the event loop.
 * Code custom services.
 * Design custom directives, understanding concepts like compile, link, and scope.
-  
