@@ -1,6 +1,31 @@
 # React / Angular / Redux / GraphQL / Router Tutorials
 
 
+# Votey
+###### A live multi-user voting app in real time.
+
+Client
+
+https://github.com/CodeAmend/tut-live-voting-app-client
+
+Server:
+
+https://github.com/CodeAmend/tut-live-voting-app-server
+
+A tutorial located [here]('http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html').
+
+* This is a voting app that has a back and front end.
+* We will use Redux on both ends of the opp.
+* The organizer has the ability to call NEXT when users are done voting.
+* Users will have their own Redux store for making votes.
+
+
+
+
+
+
+
+
 ### [react-redux-book-list]
 https://github.com/CodeAmend/tut-redux-book-list
 
@@ -57,4 +82,4 @@ https://github.com/CodeAmend/tut-mongodb-node-express-controller-unittests-examp
 
 Mongodb created using unittests. This has a model, controller, and routes.
 
-This was a intro to Mongodb. I learned how to set up a basic REST backend using Express, Node, and Mongo. 
+This was a intro to Mongodb. I learned how to set up a basic REST backend using Express, Node, and Mongo.
