@@ -2,8 +2,7 @@
 
 
 ### [redux-book-list]
-(https://www.udemy.com/react-redux/learn/v4/overview)
-> **Steven Grider** [profile](https://www.udemy.com/user/sgslo)<br>
+https://github.com/CodeAmend/tut-redux-book-list
 
 This shows how Redux updates components.
 
